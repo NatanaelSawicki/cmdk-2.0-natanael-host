@@ -1,0 +1,36 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "06/12/2024 08:51:40",
+      "sequence" : 500001,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "table_name" : "DOMINIO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "cmdk_adm",
+      "guid" : "b7da449d-1505-4fb3-bfde-0694bc1c5e64"
+    },
+    "server_info" : {
+      "charset" : "BRAZILIAN PORTUGUESE_BRAZIL.WE8MSWIN1252",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb7"
+    },
+    "session_info" : {
+      "machine" : "YY325703",
+      "os_user" : "310256154",
+      "tasy_user" : "cmdk_adm"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 17948,
+      "old_value" : 17948
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 17948,
+      "old_value" : 17948
+    } ]
+  } ]
+}

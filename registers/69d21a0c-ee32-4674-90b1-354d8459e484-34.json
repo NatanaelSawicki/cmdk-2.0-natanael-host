@@ -1,0 +1,134 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "11/12/2024 08:17:26",
+      "sequence" : 500033,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "INSERT",
+      "table_name" : "DOMINIO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "cmdk_adm",
+      "guid" : "9c302864-5543-4973-9de6-88147f5a2fef"
+    },
+    "server_info" : {
+      "charset" : "BRAZILIAN PORTUGUESE_BRAZIL.WE8MSWIN1252",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb7"
+    },
+    "session_info" : {
+      "machine" : "YY325703",
+      "os_user" : "310256154",
+      "tasy_user" : "cmdk_adm"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 18046,
+      "old_value" : null
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 18046,
+      "old_value" : null
+    }, {
+      "column_name" : "NM_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "+ ou ++ ou +++ OR",
+      "old_value" : null
+    }, {
+      "column_name" : "DS_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "+ ou ++ ou +++ OR",
+      "old_value" : null
+    }, {
+      "column_name" : "IE_ALTERAR",
+      "data_type" : "VARCHAR2",
+      "new_value" : "N",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "cmdk_adm",
+      "old_value" : null
+    }, {
+      "column_name" : "IE_IMPLANTAR",
+      "data_type" : "VARCHAR2",
+      "new_value" : "N",
+      "old_value" : null
+    }, {
+      "column_name" : "NR_SEQ_MODULO",
+      "data_type" : "NUMBER",
+      "new_value" : "15",
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "11/12/2024 08:17:07",
+      "old_value" : null
+    }, {
+      "column_name" : "CD_EXP_DESC_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 10,
+      "old_value" : null
+    }, {
+      "column_name" : "CD_EXP_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 10,
+      "old_value" : null
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : "CORE.CMDK_LTDA",
+      "old_value" : null
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "11/12/2024 08:17:26",
+      "sequence" : 500034,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "DELETE",
+      "table_name" : "DOMINIO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "",
+      "guid" : "a5b25f96-a3f8-49d7-9dd3-3b5e6808f4d3"
+    },
+    "server_info" : {
+      "charset" : "BRAZILIAN PORTUGUESE_BRAZIL.WE8MSWIN1252",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb7"
+    },
+    "session_info" : {
+      "machine" : "YY325703",
+      "os_user" : "310256154",
+      "tasy_user" : "cmdk_adm"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 18046
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 18046
+    }, {
+      "column_name" : "IE_ALTERAR",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "N"
+    }, {
+      "column_name" : "IE_IMPLANTAR",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "N"
+    }, {
+      "column_name" : "NR_SEQ_MODULO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : "15"
+    } ]
+  } ]
+}

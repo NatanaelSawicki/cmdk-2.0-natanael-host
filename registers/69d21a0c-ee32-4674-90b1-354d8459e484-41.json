@@ -1,0 +1,46 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "02/04/2025 11:17:34",
+      "sequence" : 2050,
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "table_name" : "DIC_EXPRESSAO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "cmdk_adm",
+      "guid" : "1930b122-83e9-4ad5-b8a7-6a810b90c2d8"
+    },
+    "server_info" : {
+      "charset" : "BRAZILIAN PORTUGUESE_BRAZIL.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "YY325703",
+      "os_user" : "310256154",
+      "tasy_user" : "cmdk_adm"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : 1134879,
+      "old_value" : 1134879
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_EXPRESSAO",
+      "data_type" : "NUMBER",
+      "new_value" : 1134879,
+      "old_value" : 1134879
+    }, {
+      "column_name" : "DS_GLOSSARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "Test Nat Test Nat Test Nat Test",
+      "old_value" : "Test Nat Test Nat Test Nat"
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : "02/04/2025 11:16:46",
+      "old_value" : "02/04/2025 10:20:26"
+    } ]
+  } ]
+}

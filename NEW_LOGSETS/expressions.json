@@ -1,0 +1,48 @@
+{
+  "DIC_EXPRESSAO_CUSTOM" : [ {
+    "$operation" : "MERGE",
+    "DT_ATUALIZACAO_NREC" : "04/02/2026 13:35:46",
+    "DS_LOCALE" : "pt_BR",
+    "DS_IDIOMA" : "pt",
+    "NR_SEQUENCIA" : "11482750",
+    "NM_USUARIO" : "nosawicki",
+    "IE_SITUACAO" : "A",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "11482750000000",
+    "DS_EXPRESSAO" : "test",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "04/02/2026 13:35:46"
+  } ],
+  "DIC_EXPRESSAO" : [ {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "04/02/2026 13:32:59",
+    "DIC_EXPRESSAO_IDIOMA" : [ ],
+    "DS_GLOSSARIO" : "test local natanael s",
+    "NM_USUARIO" : "nosawicki",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "11482750",
+    "DT_ATUALIZACAO" : "04/02/2026 13:32:59"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "04/02/2026 15:21:21",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "CREATE",
+      "DT_ATUALIZACAO_NREC" : "04/02/2026 15:21:22",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "11482900",
+      "NM_USUARIO" : "nosawicki",
+      "IE_SITUACAO" : "A",
+      "NM_USUARIO_NREC" : "nosawicki",
+      "CD_EXPRESSAO" : "11482900",
+      "DS_EXPRESSAO" : "test 01",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "04/02/2026 15:21:22"
+    } ],
+    "DS_GLOSSARIO" : "test 01test 01test 01",
+    "NM_USUARIO" : "nosawicki",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "11482900",
+    "DT_ATUALIZACAO" : "04/02/2026 15:21:21"
+  } ]
+}

@@ -1,0 +1,56 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "23/03/2026 14:49:09",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 500155,
+      "table_name" : "VALOR_DOMINIO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "nosawicki",
+      "guid" : "739cbd83-a7ca-4e25-b853-82d535ae2c1d"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "bd1193bf6ead",
+      "os_user" : "root",
+      "tasy_user" : "nosawicki"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 5163,
+      "old_value" : 5163
+    }, {
+      "column_name" : "VL_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "AB",
+      "old_value" : "AB"
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 5163,
+      "old_value" : 5163
+    }, {
+      "column_name" : "DS_VALOR_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "Teste9999999",
+      "old_value" : "AB"
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "23/03/2026 14:45:34",
+      "old_value" : "13/03/2026 10:56:14"
+    }, {
+      "column_name" : "CD_EXP_VALOR_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 1,
+      "old_value" : 967553
+    } ]
+  } ]
+}

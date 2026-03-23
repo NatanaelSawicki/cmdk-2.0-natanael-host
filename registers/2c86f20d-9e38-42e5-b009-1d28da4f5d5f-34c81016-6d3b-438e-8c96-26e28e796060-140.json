@@ -1,0 +1,86 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "23/03/2026 11:06:19",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "INSERT",
+      "sequence" : 500140,
+      "table_name" : "DOMINIO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "nosawicki",
+      "guid" : "d836fd53-a133-48bd-a9a3-9a3b83e6f417"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "bd1193bf6ead",
+      "os_user" : "root",
+      "tasy_user" : "nosawicki"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 23379,
+      "old_value" : null
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 23379,
+      "old_value" : null
+    }, {
+      "column_name" : "NM_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "teste",
+      "old_value" : null
+    }, {
+      "column_name" : "DS_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "teste natanael",
+      "old_value" : null
+    }, {
+      "column_name" : "IE_ALTERAR",
+      "data_type" : "VARCHAR2",
+      "new_value" : "N",
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "nosawicki",
+      "old_value" : null
+    }, {
+      "column_name" : "IE_IMPLANTAR",
+      "data_type" : "VARCHAR2",
+      "new_value" : "N",
+      "old_value" : null
+    }, {
+      "column_name" : "NR_SEQ_MODULO",
+      "data_type" : "NUMBER",
+      "new_value" : "15",
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "23/03/2026 11:05:19",
+      "old_value" : null
+    }, {
+      "column_name" : "CD_EXP_DESC_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 3,
+      "old_value" : null
+    }, {
+      "column_name" : "CD_EXP_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 3,
+      "old_value" : null
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : "CORE.CMDK_LTDA",
+      "old_value" : null
+    } ]
+  } ]
+}

@@ -1,0 +1,343 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "31/03/2026 08:13:44",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 500163,
+      "table_name" : "DOMINIO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "nosawicki",
+      "guid" : "da36d709-8498-4da2-90cb-5cecaca0b00f"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "5110ede4aa2c",
+      "os_user" : "root",
+      "tasy_user" : "nosawicki"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 23529,
+      "old_value" : 23529
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : 23529,
+      "old_value" : 23529
+    }, {
+      "column_name" : "NM_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "(NATANEL) OPS - A\u00e7\u00e3o de bloqueio de cobran\u00e7a da co-participa\u00e7\u00e3o (NAT)",
+      "old_value" : "(NAT) OPS - A\u00e7\u00e3o de bloqueio de cobran\u00e7a da co-participa\u00e7\u00e3o (NAT)"
+    }, {
+      "column_name" : "DS_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "TEST Natanael",
+      "old_value" : "TEST"
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "30/03/2026 14:39:35",
+      "old_value" : "30/03/2026 14:33:54"
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "31/03/2026 08:13:44",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 500164,
+      "table_name" : "TIPO_LOCALIZAR_ATRIBUTO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "nosawicki",
+      "guid" : "f150d25e-d0f5-4a4e-a11f-34f4339d0937"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "5110ede4aa2c",
+      "os_user" : "root",
+      "tasy_user" : "nosawicki"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 40803,
+      "old_value" : 40803
+    } ],
+    "column_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 40803,
+      "old_value" : 40803
+    }, {
+      "column_name" : "NR_SEQ_TIPO_LOCALIZAR",
+      "data_type" : "NUMBER",
+      "new_value" : 28357,
+      "old_value" : 28357
+    }, {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : null
+    }, {
+      "column_name" : "CD_EXP_ITEM",
+      "data_type" : "NUMBER",
+      "new_value" : 2,
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : "30/03/2026 15:19:48",
+      "old_value" : "23/03/2026 15:57:11"
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "31/03/2026 08:13:44",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "INSERT",
+      "sequence" : 500165,
+      "table_name" : "LOCATOR_LOCALE",
+      "tag_name" : "CMDK",
+      "tasy_user" : "nosawicki",
+      "guid" : "a0752ecd-d87e-4678-87db-fdd11e845271"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "5110ede4aa2c",
+      "os_user" : "root",
+      "tasy_user" : "nosawicki"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 7465,
+      "old_value" : null
+    } ],
+    "column_values" : [ {
+      "column_name" : "NM_USUARIO_NREC",
+      "data_type" : "VARCHAR2",
+      "new_value" : "nosawicki",
+      "old_value" : null
+    }, {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 7465,
+      "old_value" : null
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "nosawicki",
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "30/03/2026 15:30:34",
+      "old_value" : null
+    }, {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : "30/03/2026 15:30:34",
+      "old_value" : null
+    }, {
+      "column_name" : "NR_SEQ_TIPO_LOCALIZAR",
+      "data_type" : "NUMBER",
+      "new_value" : 28357,
+      "old_value" : null
+    }, {
+      "column_name" : "NM_ATRIBUTO",
+      "data_type" : "VARCHAR2",
+      "new_value" : "test",
+      "old_value" : null
+    }, {
+      "column_name" : "DS_LOCALE",
+      "data_type" : "VARCHAR2",
+      "new_value" : "pt_BR",
+      "old_value" : null
+    }, {
+      "column_name" : "CD_LOCALIZADOR",
+      "data_type" : "NUMBER",
+      "new_value" : 1,
+      "old_value" : null
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "31/03/2026 08:13:44",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "DELETE",
+      "sequence" : 500166,
+      "table_name" : "DOMINIO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "nosawicki",
+      "guid" : "8ec8d08e-b091-48a4-9393-21cfe0b8a050"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "5110ede4aa2c",
+      "os_user" : "root",
+      "tasy_user" : "nosawicki"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 23529
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 23529
+    }, {
+      "column_name" : "NM_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "(NATANEL) OPS - A\u00e7\u00e3o de bloqueio de cobran\u00e7a da co-participa\u00e7\u00e3o (NAT)"
+    }, {
+      "column_name" : "DS_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "TEST Natanael"
+    }, {
+      "column_name" : "IE_ALTERAR",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "N"
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "nosawicki"
+    }, {
+      "column_name" : "IE_IMPLANTAR",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "N"
+    }, {
+      "column_name" : "NR_SEQ_MODULO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : "15"
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : null,
+      "old_value" : "30/03/2026 14:39:35"
+    }, {
+      "column_name" : "CD_EXP_DESC_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 1
+    }, {
+      "column_name" : "CD_EXP_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 1
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "CORE.CMDK_LTDA"
+    } ]
+  }, {
+    "event_info" : {
+      "date" : "31/03/2026 08:13:44",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "DELETE",
+      "sequence" : 500167,
+      "table_name" : "DOMINIO",
+      "tag_name" : "CMDK",
+      "tasy_user" : "nosawicki",
+      "guid" : "27cb0b05-2468-4b01-b052-19206bab99f5"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "5110ede4aa2c",
+      "os_user" : "root",
+      "tasy_user" : "nosawicki"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 23529
+    } ],
+    "column_values" : [ {
+      "column_name" : "CD_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 23529
+    }, {
+      "column_name" : "NM_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "(NAT) OPS - A\u00e7\u00e3o de bloqueio de cobran\u00e7a da co-participa\u00e7\u00e3o (NAT)"
+    }, {
+      "column_name" : "DS_DOMINIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "TEST"
+    }, {
+      "column_name" : "IE_ALTERAR",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "N"
+    }, {
+      "column_name" : "NM_USUARIO",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "nosawicki"
+    }, {
+      "column_name" : "IE_IMPLANTAR",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "N"
+    }, {
+      "column_name" : "NR_SEQ_MODULO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : "15"
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : null,
+      "old_value" : "31/03/2026 08:13:36"
+    }, {
+      "column_name" : "CD_EXP_DESC_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 1
+    }, {
+      "column_name" : "CD_EXP_DOMINIO",
+      "data_type" : "NUMBER",
+      "new_value" : null,
+      "old_value" : 1
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "CORE.CMDK_LTDA"
+    } ]
+  } ]
+}

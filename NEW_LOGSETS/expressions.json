@@ -1,0 +1,129 @@
+{
+  "DIC_EXPRESSAO_CUSTOM" : [ {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "03/03/2026 14:42:54",
+    "DS_LOCALE" : "en_GB",
+    "DS_IDIOMA" : "en",
+    "NR_SEQUENCIA" : "27418",
+    "NM_USUARIO" : "nosawicki",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "1118154",
+    "DS_EXPRESSAO" : "testa",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "03/03/2026 14:42:30"
+  }, {
+    "$operation" : "MERGE",
+    "DT_ATUALIZACAO_NREC" : "04/03/2026 15:22:19",
+    "DS_LOCALE" : "es_AR",
+    "DS_IDIOMA" : "es",
+    "NR_SEQUENCIA" : "27435",
+    "NM_USUARIO" : "nosawicki",
+    "IE_SITUACAO" : "A",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "342956",
+    "DS_EXPRESSAO" : "test",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "04/03/2026 15:19:56"
+  }, {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "04/03/2026 15:34:42",
+    "DS_LOCALE" : "pl_PL",
+    "DS_IDIOMA" : "pl",
+    "NR_SEQUENCIA" : "27439",
+    "NM_USUARIO" : "nosawicki",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "342956",
+    "DS_EXPRESSAO" : "test",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "04/03/2026 15:34:42"
+  }, {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "04/03/2026 15:47:23",
+    "DS_LOCALE" : "es_AR",
+    "DS_IDIOMA" : "es",
+    "NR_SEQUENCIA" : "27440",
+    "NM_USUARIO" : "nosawicki",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "342956",
+    "DS_EXPRESSAO" : "test",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "04/03/2026 15:47:23"
+  }, {
+    "$operation" : "CREATE",
+    "DT_ATUALIZACAO_NREC" : "04/03/2026 16:33:42",
+    "DS_LOCALE" : "ar_SA",
+    "DS_IDIOMA" : "ar",
+    "NR_SEQUENCIA" : "27441",
+    "NM_USUARIO" : "nosawicki",
+    "IE_SITUACAO" : "A",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "342956",
+    "DS_EXPRESSAO" : "test",
+    "DS_LAYER" : "CORE.CMDK_LTDA",
+    "DT_ATUALIZACAO" : "04/03/2026 16:33:42"
+  } ],
+  "DIC_EXPRESSAO" : [ {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "04/03/2026 15:21:34",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "20/02/2026 10:59:54",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1149651",
+      "NM_USUARIO" : "nosawicki",
+      "NM_USUARIO_NREC" : "nosawicki",
+      "CD_EXPRESSAO" : "1149651",
+      "DS_EXPRESSAO" : "Test Nata",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "20/02/2026 10:59:54"
+    } ],
+    "DS_GLOSSARIO" : "Test Nata Test Nata Test Nata Test Nata ",
+    "NM_USUARIO" : "nosawicki",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "1149651",
+    "DT_ATUALIZACAO" : "20/02/2026 10:59:54"
+  }, {
+    "$operation" : "DELETE",
+    "DT_ATUALIZACAO_NREC" : "2026-03-31 14:11:37",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "2026-03-31 14:11:37",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1149673",
+      "NM_USUARIO" : "nosawicki",
+      "NM_USUARIO_NREC" : "nosawicki",
+      "CD_EXPRESSAO" : "1149673",
+      "DS_EXPRESSAO" : "test nat",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "2026-03-31 14:11:37"
+    } ],
+    "DS_GLOSSARIO" : "test nat test nattest nattest nat",
+    "NM_USUARIO" : "nosawicki",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "1149673",
+    "DT_ATUALIZACAO" : "2026-03-31 14:11:37"
+  }, {
+    "$operation" : "MERGE",
+    "DT_ATUALIZACAO_NREC" : "03/03/2026 14:34:35",
+    "DIC_EXPRESSAO_IDIOMA" : [ {
+      "$operation" : "DELETE",
+      "DT_ATUALIZACAO_NREC" : "03/03/2026 14:34:51",
+      "DS_LOCALE" : "pt_BR",
+      "DS_IDIOMA" : "pt",
+      "NR_SEQUENCIA" : "1150080",
+      "NM_USUARIO" : "nosawicki",
+      "NM_USUARIO_NREC" : "nosawicki",
+      "CD_EXPRESSAO" : "1150080",
+      "DS_EXPRESSAO" : "test natanael cmdka",
+      "DS_LAYER" : "CORE.CMDK_LTDA",
+      "DT_ATUALIZACAO" : "03/03/2026 14:34:35"
+    } ],
+    "DS_GLOSSARIO" : "test natanael cmdk test natanael cmdk",
+    "NM_USUARIO" : "nosawicki",
+    "NM_USUARIO_NREC" : "nosawicki",
+    "CD_EXPRESSAO" : "1150080",
+    "DT_ATUALIZACAO" : "03/03/2026 14:34:35"
+  } ]
+}
